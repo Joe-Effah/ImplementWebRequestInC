@@ -2,6 +2,7 @@
 /build/
 /bin/
 /obj/
+/CMakeFiles/
 
 # Ignore compiled object files
 *.o
