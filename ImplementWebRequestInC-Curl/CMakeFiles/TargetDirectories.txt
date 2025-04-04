@@ -1,0 +1,3 @@
+D:/Programming/Blog Code Implementations/ImplementWebRequestInC/ImplementWebRequestInC-Curl/CMakeFiles/ImplementWebRequestInC-Curl.dir
+D:/Programming/Blog Code Implementations/ImplementWebRequestInC/ImplementWebRequestInC-Curl/CMakeFiles/ALL_BUILD.dir
+D:/Programming/Blog Code Implementations/ImplementWebRequestInC/ImplementWebRequestInC-Curl/CMakeFiles/ZERO_CHECK.dir
